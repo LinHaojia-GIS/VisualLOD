@@ -1,4 +1,4 @@
-As the viewpoint state continuously changes, the LODs are dynamically selected and rendered. The visual discrepancies caused by the differences between LODs are beyond the resolution capability of the human eye, ensuring good visual continuity of the LOD transitions. 
+As the viewpoint state continuously changes, the LODs are dynamically selected and rendered. The visual discrepancies caused by the differences between LODs are beyond the resolution capability of the human eye, ensuring good visual continuity during LOD transitions. 
 
 
 
