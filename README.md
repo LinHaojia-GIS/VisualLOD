@@ -22,17 +22,17 @@ The tool provides three flexible running modes, allowing you to execute only the
 ## Command-Line Usage
 ### 1. Texture Optimization Mode
 ```bash
-./VisualLOD TextureOptimization -i Data/ModelName.obj -o Output/ModelName/
+./VisualLOD.exe TextureOptimization -i Data/ModelName.obj -o Output/ModelName/
 ```
 
 ### 2. Model Optimization Mode
 ```bash
-./VisualLOD ModelOptimization -i Data/ModelName.obj -o Output/ModelName/
+./VisualLOD.exe ModelOptimization -i Data/ModelName.obj -o Output/ModelName/
 ```
 
 ### 3. Custom LOD Construction Mode
 ```bash
-./VisualLOD LOD -i Data/ModelName.obj -o Output/ModelName/ -level n
+./VisualLOD.exe LOD -i Data/ModelName.obj -o Output/ModelName/ -level n
 ```
 
 ### Parameter Description
