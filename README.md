@@ -10,7 +10,7 @@ VisualLOD is a visual-driven LOD framework for continuous visualization of reali
 - Automatically optimize the model's geometric and texture information. Minimize data redundancy while preserving both the degree of fidelity and the geometry-texture matching relationship.
 
 #### Fig. 1 The results of model optimization.
-<img width="885" height="682" alt="image" src="https://github.com/user-attachments/assets/1ad56624-570e-4ad9-85fd-6109baadf054" />
+<img width="885" height="684" alt="image" src="https://github.com/user-attachments/assets/3d8d6dd2-de71-42f2-9014-b0e9aebf7792" />
 
 ### 1.3 LOD Construction
 - Generate multi-level LOD models on demand, supporting custom LOD level counts. Model is optimized and simplified at multiple levels to construct its LODs with a balanced cross-level decreasing fidelity.
