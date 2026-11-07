@@ -64,7 +64,7 @@ As the viewpoint state continuously changes, the LODs are dynamically selected a
 
 **Case 1: LOD continuous visualization of individual building**
 
-https://github.com/user-attachments/assets/80493850-75de-4aff-a83e-ed0e5f889df8
+https://github.com/user-attachments/assets/4747c84d-b2fa-4175-81a1-377aef707792
 
 **Case 2: LOD continuous visualization of building scenes**
 
